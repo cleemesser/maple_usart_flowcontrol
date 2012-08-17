@@ -1,5 +1,5 @@
 
-# testing with FT326R
+# testing with FT232R
 In [45]: torture_test()
 Caught exception!!!:
 
@@ -10,10 +10,10 @@ In [46]: 1391.1/7470.4
 Out[46]: 0.1754
 # 175 kB/s
 
-### testing with FT 3226H
+### testing with FT 2232H
 
 torture_test()
-Caught exception!!!: 
+
 32900 cycles performed 67379200 bytes (67.4 MB) transferred before stopping
 test ran for 362.0 seconds
 
