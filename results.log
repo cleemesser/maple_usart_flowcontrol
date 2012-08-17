@@ -6,11 +6,9 @@ Caught exception!!!:
 679267 cycles performed 1391138816 bytes (1391.1 MB) transferred before stopping
 test ran for 7470.4 seconds
 
-In [46]: 131.1/7470.4
-Out[46]: 0.017549261083743842
-
-In [47]: _*1000
-Out[47]: 17.549261083743843
+In [46]: 1391.1/7470.4
+Out[46]: 0.1754
+# 175 kB/s
 
 ### testing with FT 3226H
 
