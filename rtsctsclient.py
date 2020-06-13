@@ -93,8 +93,8 @@ def test_256_download():
     return uirec, rec
 
 def read_chars(n):
-    buf = []    
-    for ii in xrange(n):
+    buf = []
+    for _ in xrange(n):
         c = ser.read()
         buf.append(c)
     return buf
